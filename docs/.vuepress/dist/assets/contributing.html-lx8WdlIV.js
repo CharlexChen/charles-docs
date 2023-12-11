@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6ce48554","path":"/contributing.html","title":"首页","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"首页","description":"首页的描述"},"headers":[],"git":{"updatedTime":1702313325000,"contributors":[{"name":"CharlexChen","email":"96185017+CharlexChen@users.noreply.github.com","commits":1}]},"filePathRelative":"contributing.md"}');export{t as data};

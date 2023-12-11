@@ -7,7 +7,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     sidebar: [
       {
-        text: '个人介绍',
+        text: '个人经历',
         link: '/intro.md',
       },
       {
