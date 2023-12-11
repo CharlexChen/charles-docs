@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-yWIsA8PS.js";const r={},s=e("h1",{id:"hello-charles",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-charles","aria-hidden":"true"},"#"),o(" Hello Charles")],-1),n=[s];function l(_,h){return a(),c("div",null,n)}const d=t(r,[["render",l],["__file","contributing.html.vue"]]);export{d as default};
