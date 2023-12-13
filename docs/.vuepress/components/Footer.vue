@@ -13,12 +13,12 @@
 export default {
   data() {
     return {
-      showFooter: false,
+      showFooter: true,
     }
   },
   mounted() {
     this.onEvent = () => {
-      if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+      if ((window.innerHeight + window.scrollY) + 200 >= document.body.offsetHeight) {
         console.log("已经滚动到底部了!");
         this.showFooter = true
       } else {
@@ -39,7 +39,7 @@ export default {
   /* 你的样式代码 */
   position: fixed;
   bottom: 0px;
-  padding: 20px 0px;
+  padding: 15px 0px;
   width: 100%;
   line-height: 22px;
   color: #000000;
